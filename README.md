@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrew-stclair
 - 👀 I’m interested in Infustructure as Code, Cloud Architecture, Kubernetes etc...
-- 🌱 I’m currently learning Terraform, Helm Charts and Ansible
+- 🌱 I’m currently learning Terraform, Linux, Google CLoud, and Amazon Web Services
 
 <!---
 - `$BTC    bc1qlulqmjdyh5v5h26czl24zhekdcarlmc2vyykng`
